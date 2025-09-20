@@ -1,5 +1,12 @@
+import random
+
 global key 
 key = "abcdefghijklmnopqrstuvwxyz1234567890:/?.,"
+
+global shift 
+shift = random.randint(1, 1000) * len(key)
+# print(shift, len(key))
+
 def main():
     print("Encrpyt / Decrypt (1/2) : ")
     menu = int(input())
@@ -32,7 +39,7 @@ def encrypt():
             for j in range(0, len(list1)):
                 if i == list1[j]:
                     try:
-                        arr_chiper.append(list1[j+6]+"BN")
+                        arr_chiper.append(list1[j+shift]+"BN")
                     except(IndexError) as E:
                         print(list1[j])
                         if list1[j] == ":":
@@ -75,7 +82,7 @@ def decrypt():
             for j in range(0, len(list1)):
                 if i == list1[j]:
                     try:
-                        arr_text.append(list1[j-6])
+                        arr_text.append(list1[j-shift])
                     except(IndexError):
                         print(list1[j])
                         if list1[j] == 'e':
