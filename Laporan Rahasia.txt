@@ -1,0 +1,37 @@
+Laporan Rahasia
+Nomor: 74B-2
+Tanggal: 20 September 2025
+Kepada: Pimpinan Intelijen
+Dari: Agen 009
+
+Perihal: Analisis Kasus 'Hantu Digital'
+
+Laporan ini bersifat sangat rahasia dan hanya boleh diakses oleh pihak yang berwenang.
+
+Pendahuluan
+
+Kasus "Hantu Digital" telah menjadi prioritas utama sejak laporan pertama mengenai hilangnya data-data sensitif dari server pemerintah. Tersangka utama, yang kami sebut sebagai 'Ghost', tampaknya bukan peretas tunggal. Kami menduga ada sindikat terorganisir yang beroperasi di belakangnya, dengan Ghost sebagai ujung tombaknya. Operasi mereka sangat canggih, memanfaatkan celah-celah keamanan digital yang bahkan para ahli kami tidak menyadarinya.
+
+Modus Operandi
+
+Ghost tidak meninggalkan jejak digital konvensional. Analisis forensik kami menemukan bahwa mereka menggunakan metode yang kami sebut "enkripsi kuantum-bayangan." Ini bukan enkripsi biasa; melainkan, sebuah algoritma yang mampu menyamarkan lalu lintas data sebagai "noise" atau sinyal acak. Akibatnya, jejak yang ditinggalkan seolah-olah tidak ada, membuat deteksi menjadi sangat sulit.
+
+Mereka juga menggunakan 'jaringan hantu'—sebuah jaringan peer-to-peer terenkripsi yang terus-menerus berubah, membuatnya mustahil untuk dilacak secara real-time. Kami menduga, jaringan ini hanya aktif selama beberapa detik, cukup untuk memindahkan data, lalu menghilang tanpa bekas.
+
+Target dan Motif
+
+Ghost menargetkan data-data sensitif yang terkait dengan proyek-proyek teknologi masa depan, terutama di bidang kecerdasan buatan, energi terbarukan, dan sistem pertahanan siber. Ini bukan sekadar pencurian data biasa. Ini adalah pencurian "cetak biru"—rencana-rencana strategis yang bisa digunakan untuk membangun infrastruktur teknologi yang canggih. Motif mereka tampaknya bukan finansial, melainkan untuk memperoleh keunggulan strategis.
+
+Penyelidikan Lapangan
+
+Kami telah berhasil melacak salah satu titik entri yang diduga digunakan oleh Ghost. Titik ini berada di sebuah kafe internet tua di sudut kota. Petugas kami menyamar sebagai pelanggan dan mengamati aktivitas di sana. Kami menemukan seorang pria paruh baya yang selalu datang pada jam yang sama setiap hari, menggunakan komputer yang sama, dan selalu mengenakan sarung tangan latex saat mengetik. Pria ini tidak pernah berinteraksi dengan orang lain dan selalu membayar dengan uang tunai.
+
+Kami berhasil memasang keylogger dan menemukan bahwa dia menggunakan sebuah alamat IP yang tidak terdaftar, IP yang tidak ada di dalam database mana pun. Ini mendukung teori kami tentang 'jaringan hantu' yang mereka ciptakan.
+
+Kesimpulan Awal
+
+Ghost adalah ancaman serius terhadap keamanan nasional. Mereka bukan sekadar peretas, melainkan ahli strategi yang beroperasi dengan presisi tingkat tinggi. Upaya penangkapan langsung akan berisiko, karena mereka bisa menghapus semua jejak mereka dalam hitungan detik.
+
+Kami merekomendasikan untuk tidak melakukan intervensi langsung saat ini. Pendekatan yang lebih baik adalah terus mengawasi, mengumpulkan informasi, dan menunggu sampai mereka membuat kesalahan. Kami akan terus menyelidiki jaringan hantu mereka, mencoba untuk menemukan titik kelemahan. Laporan selanjutnya akan berfokus pada analisis mendalam terhadap algoritma enkripsi kuantum-bayangan yang mereka gunakan.
+
+Penyelidikan ini masih berjalan. Mohon menunggu laporan lebih lanjut.
