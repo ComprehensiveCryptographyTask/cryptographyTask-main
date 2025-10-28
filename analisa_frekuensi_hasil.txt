@@ -1,6 +1,51 @@
 === Laporan Analisis Frekuensi Cipherteks ===
 
-1. Hasil Cipherteks:
+--- Ringkasan Hasil ---
+1. Kunci Rahasia Asli     : 3
+2. Tebakan Kunci          : 3
+   Hasil Tebakan Kunci: BENAR 🥳
+3. Akurasi Teks Ditebak   : 100.00%
+   (2790 dari 2790 karakter alfabet berhasil dikembalikan)
+
+
+--- Detail Proses Analisis Chi-Kuadrat (χ²) ---
+Algoritma mencoba semua 26 kemungkinan kunci dekripsi.
+Skor χ² mengukur seberapa 'mirip' hasil dekripsi dengan Bahasa Indonesia.
+SKOR LEBIH RENDAH = LEBIH MIRIP.
+
+  - Kunci  3: Skor χ² =          204.21  <-- SKOR TERENDAH (TEBAKAN KUNCI)
+  - Kunci  9: Skor χ² =        7,774.79
+  - Kunci 22: Skor χ² =        7,854.33
+  - Kunci 15: Skor χ² =        8,627.40
+  - Kunci  1: Skor χ² =        9,318.66
+  - Kunci  2: Skor χ² =       13,142.43
+  - Kunci 11: Skor χ² =       13,776.68
+  - Kunci  5: Skor χ² =       14,638.83
+  - Kunci 18: Skor χ² =       15,004.41
+  - Kunci 20: Skor χ² =       17,083.98
+  - Kunci 25: Skor χ² =       18,752.60
+  - Kunci 16: Skor χ² =       18,962.29
+  - Kunci 23: Skor χ² =       21,075.39
+  - Kunci  7: Skor χ² =       21,225.82
+  - Kunci 12: Skor χ² =       22,294.06
+  - Kunci 14: Skor χ² =       27,507.24
+  - Kunci 10: Skor χ² =       28,834.79
+  - Kunci 21: Skor χ² =       30,751.99
+  - Kunci 24: Skor χ² =       33,833.35
+  - Kunci  8: Skor χ² =       37,311.68
+  - Kunci  0: Skor χ² =       44,090.98
+  - Kunci 19: Skor χ² =       44,215.70
+  - Kunci 17: Skor χ² =       46,392.55
+  - Kunci  4: Skor χ² =       57,810.08
+  - Kunci 13: Skor χ² =      101,706.59
+  - Kunci  6: Skor χ² =      110,695.51
+
+
+----------------------------------------
+
+--- Data Teks ---
+
+1. Cipherteks (Potongan):
 Odsrudq Udkdvld
 Qrpru: 74E-2
 Wdqjjdo: 20 Vhswhpehu 2025
@@ -17,69 +62,43 @@ Ndvxv "Kdqwx Gljlwdo" whodk phqmdgl sulrulwdv xwdpd vhmdn odsrudq shuwdpd phqjhq
 
 Prgxv Rshudqgl
 
-Jkrvw wlgdn phqlqjjdondq mhmdn gljlwdo nrqyhqvlrqdo. Dqdolvlv iruhqvln ndpl phqhpxndq edkzd phuhnd phqjjxqdndq phwrgh bdqj ndpl vhexw "hqnulsvl nxdqwxp-edbdqjdq." Lql exndq hqnulsvl eldvd; phodlqndq, vhexdk dojrulwpd bdqj pdpsx phqbdpdundq odox olqwdv gdwd vhedjdl "qrlvh" dwdx vlqbdo dfdn. Dnledwqbd, mhmdn bdqj glwlqjjdondq vhrodk-rodk wlgdn dgd, phpexdw ghwhnvl phqmdgl vdqjdw vxolw.
+Jkrvw wlgdn phqlqjjdondq mhmdn gljlwdo nrqyhqvlrqdo. Dqdolvlv iruhqvln ndpl phqhpxndq edkzd phuhnd phqjjxqdndq phwrgh bdqj ndpl vhexw "hqnulsvl nxdqwxp-edbdqjdq." Lql exndq hqnulsvl eldvd; phodlqndq, vhexdk dojrulwpd bdqj pdpsx phqbdpdundq odox olqwdv gdwd vhedjdl "qrlvh" dwdx vlqbdo dfdn. Dnl...
 
-Phuhnd mxjd phqjjxqdndq 'mdulqjdq kdqwx'—vhexdk mdulqjdq shhu-wr-shhu whuhqnulsvl bdqj whuxv-phqhuxv ehuxedk, phpexdwqbd pxvwdklo xqwxn glodfdn vhfdud uhdo-wlph. Ndpl phqgxjd, mdulqjdq lql kdqbd dnwli vhodpd ehehudsd ghwln, fxnxs xqwxn phplqgdkndq gdwd, odox phqjklodqj wdqsd ehndv.
+2. Hasil Dekripsi (Tebakan Plaintext):
+Laporan Rahasia
+Nomor: 74B-2
+Tanggal: 20 September 2025
+Kepada: Pimpinan Intelijen
+Dari: Agen 009
 
-Wdujhw gdq Prwli
+Perihal: Analisis Kasus 'Hantu Digital'
 
-Jkrvw phqdujhwndq gdwd-gdwd vhqvlwli bdqj whundlw ghqjdq surbhn-surbhn whnqrorjl pdvd ghsdq, whuxwdpd gl elgdqj nhfhugdvdq exdwdq, hqhujl whueduxndq, gdq vlvwhp shuwdkdqdq vlehu. Lql exndq vhndgdu shqfxuldq gdwd eldvd. Lql dgdodk shqfxuldq "fhwdn elux"—uhqfdqd-uhqfdqd vwudwhjlv bdqj elvd gljxqdndq xqwxn phpedqjxq lqiudvwuxnwxu whnqrorjl bdqj fdqjjlk. Prwli phuhnd wdpsdnqbd exndq ilqdqvldo, phodlqndq xqwxn phpshurohk nhxqjjxodq vwudwhjlv.
+Laporan ini bersifat sangat rahasia dan hanya boleh diakses oleh pihak yang berwenang.
 
-Shqbholglndq Odsdqjdq
+Pendahuluan
 
-Ndpl whodk ehukdvlo phodfdn vdodk vdwx wlwln hqwul bdqj glgxjd gljxqdndq rohk Jkrvw. Wlwln lql ehudgd gl vhexdk ndih lqwhuqhw wxd gl vxgxw nrwd. Shwxjdv ndpl phqbdpdu vhedjdl shodqjjdq gdq phqjdpdwl dnwlylwdv gl vdqd. Ndpl phqhpxndq vhrudqj suld sduxk edbd bdqj vhodox gdwdqj sdgd mdp bdqj vdpd vhwlds kdul, phqjjxqdndq nrpsxwhu bdqj vdpd, gdq vhodox phqjhqdndq vduxqj wdqjdq odwha vddw phqjhwln. Suld lql wlgdn shuqdk ehulqwhudnvl ghqjdq rudqj odlq gdq vhodox phpedbdu ghqjdq xdqj wxqdl.
+Kasus "Hantu Digital" telah menjadi prioritas utama sejak laporan pertama mengenai hilangnya data-data sensitif dari server pemerintah. Tersangka utama, yang kami sebut sebagai 'Ghost', tampaknya bukan peretas tunggal. Kami menduga ada sindikat terorganisir yang beroperasi di belakangnya, dengan Ghost sebagai ujung tombaknya. Operasi mereka sangat canggih, memanfaatkan celah-celah keamanan digital yang bahkan para ahli kami tidak menyadarinya.
 
-Ndpl ehukdvlo phpdvdqj nhborjjhu gdq phqhpxndq edkzd gld phqjjxqdndq vhexdk dodpdw LS bdqj wlgdn whugdiwdu, LS bdqj wlgdn dgd gl gdodp gdwdedvh pdqd sxq. Lql phqgxnxqj whrul ndpl whqwdqj 'mdulqjdq kdqwx' bdqj phuhnd flswdndq.
+Modus Operandi
 
-Nhvlpsxodq Dzdo
+Ghost tidak meninggalkan jejak digital konvensional. Analisis forensik kami menemukan bahwa mereka menggunakan metode yang kami sebut "enkripsi kuantum-bayangan." Ini bukan enkripsi biasa; melainkan, sebuah algoritma yang mampu menyamarkan lalu lintas data sebagai "noise" atau sinyal acak. Akibatnya, jejak yang ditinggalkan seolah-olah tidak ada, membuat deteksi menjadi sangat sulit.
 
-Jkrvw dgdodk dqfdpdq vhulxv whukdgds nhdpdqdq qdvlrqdo. Phuhnd exndq vhndgdu shuhwdv, phodlqndq dkol vwudwhjl bdqj ehurshudvl ghqjdq suhvlvl wlqjndw wlqjjl. Xsdbd shqdqjndsdq odqjvxqj dndq ehulvlnr, nduhqd phuhnd elvd phqjkdsxv vhpxd mhmdn phuhnd gdodp klwxqjdq ghwln.
+Mereka juga menggunakan 'jaringan hantu'—sebuah jaringan peer-to-peer terenkripsi yang terus-menerus berubah, membuatnya mustahil untuk dilacak secara real-time. Kami menduga, jaringan ini hanya aktif selama beberapa detik, cukup untuk memindahkan data, lalu menghilang tanpa bekas.
 
-Ndpl phuhnrphqgdvlndq xqwxn wlgdn phodnxndq lqwhuyhqvl odqjvxqj vddw lql. Shqghndwdq bdqj ohelk edln dgdodk whuxv phqjdzdvl, phqjxpsxondq lqirupdvl, gdq phqxqjjx vdpsdl phuhnd phpexdw nhvdodkdq. Ndpl dndq whuxv phqbholglnl mdulqjdq kdqwx phuhnd, phqfred xqwxn phqhpxndq wlwln nhohpdkdq. Odsrudq vhodqmxwqbd dndq ehuirnxv sdgd dqdolvlv phqgdodp whukdgds dojrulwpd hqnulsvl nxdqwxp-edbdqjdq bdqj phuhnd jxqdndq.
+Target dan Motif
 
-Shqbholglndq lql pdvlk ehumdodq. Prkrq phqxqjjx odsrudq ohelk odqmxw.
+Ghost menargetkan data-data sensitif yang terkait dengan proyek-proyek teknologi masa depan, terutama di bidang kecerdasan buatan, energi terbarukan, dan sistem pertahanan siber. Ini bukan sekadar pencurian data biasa. Ini adalah pencurian "cetak biru"—rencana-rencana strategis yang bisa digunakan untuk membangun infrastruktur teknologi yang canggih. Motif mereka tampaknya bukan finansial, melainkan untuk memperoleh keunggulan strategis.
 
-----------------------------------------
+Penyelidikan Lapangan
 
-2. Hasil Analisis Frekuensi:
-   Abjad paling sering digunakan (dalam cipherteks): 'D'
-   Tebakan pergeseran kunci (key): 25
+Kami telah berhasil melacak salah satu titik entri yang diduga digunakan oleh Ghost. Titik ini berada di sebuah kafe internet tua di sudut kota. Petugas kami menyamar sebagai pelanggan dan mengamati aktivitas di sana. Kami menemukan seorang pria paruh baya yang selalu datang pada jam yang sama setiap hari, menggunakan komputer yang sama, dan selalu mengenakan sarung tangan latex saat mengetik. Pria ini tidak pernah berinteraksi dengan orang lain dan selalu membayar dengan uang tunai.
 
-   Hasil dekripsi:
-Petsver Velewme
-Rsqsv: 74F-2
-Xerkkep: 20 Witxiqfiv 2025
-Oitehe: Tmqtmrer Mrxipmnir
-Hevm: Ekir 009
+Kami berhasil memasang keylogger dan menemukan bahwa dia menggunakan sebuah alamat IP yang tidak terdaftar, IP yang tidak ada di dalam database mana pun. Ini mendukung teori kami tentang 'jaringan hantu' yang mereka ciptakan.
 
-Tivmlep: Erepmwmw Oewyw 'Lerxy Hmkmxep'
+Kesimpulan Awal
 
-Petsver mrm fivwmjex werkex velewme her lerce fspil hmeowiw spil tmleo cerk fivairerk.
+Ghost adalah ancaman serius terhadap keamanan nasional. Mereka bukan sekadar peretas, melainkan ahli strategi yang beroperasi dengan presisi tingkat tinggi. Upaya penangkapan langsung akan berisiko, karena mereka bisa menghapus semua jejak mereka dalam hitungan detik.
 
-Tirhelypyer
+Kami merekomendasikan untuk tidak melakukan intervensi langsung saat ini. Pendekatan yang lebih baik adalah terus mengawasi, mengumpulkan informasi, dan menunggu sampai mereka membuat kesalahan. Kami akan terus menyelidiki jaringan hantu mereka, mencoba untuk menemukan titik kelemahan. Laporan selanjutnya akan berfokus pada analisis mendalam terhadap algoritma enkripsi kuantum-bayangan yang mereka gunakan.
 
-Oewyw "Lerxy Hmkmxep" xipel qirnehm tvmsvmxew yxeqe wineo petsver tivxeqe qirkirem lmperkrce hexe-hexe wirwmxmj hevm wivziv tiqivmrxel. Xivwerkoe yxeqe, cerk oeqm wifyx wifekem 'Klswx', xeqteorce fyoer tivixew xyrkkep. Oeqm qirhyke ehe wmrhmoex xivsvkermwmv cerk fivstivewm hm fipeoerkrce, hirker Klswx wifekem ynyrk xsqfeorce. Stivewm qivioe werkex gerkkml, qiqerjeexoer gipel-gipel oieqerer hmkmxep cerk feloer teve elpm oeqm xmheo qircehevmrce.
-
-Qshyw Stiverhm
-
-Klswx xmheo qirmrkkepoer nineo hmkmxep osrzirwmsrep. Erepmwmw jsvirwmo oeqm qiriqyoer felae qivioe qirkkyreoer qixshi cerk oeqm wifyx "irovmtwm oyerxyq-fecerker." Mrm fyoer irovmtwm fmewe; qipemroer, wifyel epksvmxqe cerk qeqty qirceqevoer pepy pmrxew hexe wifekem "rsmwi" exey wmrcep egeo. Eomfexrce, nineo cerk hmxmrkkepoer wispel-spel xmheo ehe, qiqfyex hixiowm qirnehm werkex wypmx.
-
-Qivioe nyke qirkkyreoer 'nevmrker lerxy'—wifyel nevmrker tiiv-xs-tiiv xivirovmtwm cerk xivyw-qirivyw fivyfel, qiqfyexrce qywxelmp yrxyo hmpegeo wigeve viep-xmqi. Oeqm qirhyke, nevmrker mrm lerce eoxmj wipeqe fifivete hixmo, gyoyt yrxyo qiqmrheloer hexe, pepy qirklmperk xerte fioew.
-
-Xevkix her Qsxmj
-
-Klswx qirevkixoer hexe-hexe wirwmxmj cerk xivoemx hirker tvscio-tvscio xiorspskm qewe hiter, xivyxeqe hm fmherk oigivhewer fyexer, irivkm xivfevyoer, her wmwxiq tivxelerer wmfiv. Mrm fyoer wioehev tirgyvmer hexe fmewe. Mrm ehepel tirgyvmer "gixeo fmvy"—virgere-virgere wxvexikmw cerk fmwe hmkyreoer yrxyo qiqferkyr mrjvewxvyoxyv xiorspskm cerk gerkkml. Qsxmj qivioe xeqteorce fyoer jmrerwmep, qipemroer yrxyo qiqtivspil oiyrkkyper wxvexikmw.
-
-Tircipmhmoer Peterker
-
-Oeqm xipel fivlewmp qipegeo wepel wexy xmxmo irxvm cerk hmhyke hmkyreoer spil Klswx. Xmxmo mrm fivehe hm wifyel oeji mrxivrix xye hm wyhyx osxe. Tixykew oeqm qirceqev wifekem tiperkker her qirkeqexm eoxmzmxew hm were. Oeqm qiriqyoer wisverk tvme tevyl fece cerk wipepy hexerk tehe neq cerk weqe wixmet levm, qirkkyreoer osqtyxiv cerk weqe, her wipepy qirkireoer wevyrk xerker pexib weex qirkixmo. Tvme mrm xmheo tivrel fivmrxiveowm hirker sverk pemr her wipepy qiqfecev hirker yerk xyrem.
-
-Oeqm fivlewmp qiqewerk oicpskkiv her qiriqyoer felae hme qirkkyreoer wifyel epeqex MT cerk xmheo xivhejxev, MT cerk xmheo ehe hm hepeq hexefewi qere tyr. Mrm qirhyoyrk xisvm oeqm xirxerk 'nevmrker lerxy' cerk qivioe gmtxeoer.
-
-Oiwmqtyper Eaep
-
-Klswx ehepel ergeqer wivmyw xivlehet oieqerer rewmsrep. Qivioe fyoer wioehev tivixew, qipemroer elpm wxvexikm cerk fivstivewm hirker tviwmwm xmrkoex xmrkkm. Ytece tirerkoeter perkwyrk eoer fivmwmos, oevire qivioe fmwe qirkletyw wiqye nineo qivioe hepeq lmxyrker hixmo.
-
-Oeqm qiviosqirhewmoer yrxyo xmheo qipeoyoer mrxivzirwm perkwyrk weex mrm. Tirhioexer cerk pifml femo ehepel xivyw qirkeaewm, qirkyqtypoer mrjsvqewm, her qiryrkky weqtem qivioe qiqfyex oiwepeler. Oeqm eoer xivyw qircipmhmom nevmrker lerxy qivioe, qirgsfe yrxyo qiriqyoer xmxmo oipiqeler. Petsver wipernyxrce eoer fivjsoyw tehe erepmwmw qirhepeq xivlehet epksvmxqe irovmtwm oyerxyq-fecerker cerk qivioe kyreoer.
-
-Tircipmhmoer mrm qewml fivneper. Qslsr qiryrkky petsver pifml pernyx.
+Penyelidikan ini masih berjalan. Mohon menunggu laporan lebih lanjut.
