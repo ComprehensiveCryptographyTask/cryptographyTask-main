@@ -2,9 +2,10 @@ CryptographyTask
 
 Member:
 
-Chandra Yedija K
+Chandra Yedija K_120250405004
 
-Syaddad
+Syaddad Aulia A_12050405013
+
 
 
 
